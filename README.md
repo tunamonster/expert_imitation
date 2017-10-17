@@ -1,4 +1,6 @@
 # Results
+Green lines indicate expert benchmarks, blue dots indicate average performance at iteration, red lines indicate standard deviation at iteration.
+
 ## Behavioral Cloning
 Run `./make_clone_results.bash` to recreate the graphs
 ![Alt text](results/cloning_graphs/Ant-v1.png)
